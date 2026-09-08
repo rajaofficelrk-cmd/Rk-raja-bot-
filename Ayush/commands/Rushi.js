@@ -2,7 +2,7 @@ module.exports.config = {
  name: "rushia",
  version: "1.0.0",
  hasPermssion: 0,
- credits: "𝐏𝐫𝐢𝐲𝐚𝐧𝐬𝐡 𝐑𝐚𝐣𝐩𝐮𝐭",
+ credits: "◄⸻̅͟ˣ͠𓆩𝐑꯭꘍꯭֟፝͡᪂꘍꯭ 𝐋꯭𖾝ԍ𖾝꯭֟፝͡᎔꯭𑀘𓆪꯭ˣ͢",
  description: "Random Rushia",
  commandCategory: "random-img",
  usages: "rushia",
